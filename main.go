@@ -1,3 +1,7 @@
+package main
+
+import "fmt"
+
 func main() {
 	var n float64
 	var j float64
